@@ -258,67 +258,52 @@
     {
       "id": 54,
       "type": "wallpaper54",
-      "url": "/54.png?token=GHSAT0AAAAAACFBPNC6NWPU3CK6AUJ7C3V2ZGJ4PAA"
-    },
-    {
-      "id": 55,
-      "type": "wallpaper55",
-      "url": "/55.png?token=GHSAT0AAAAAACFBPNC7PYAMN2GQFJJAAL4IZGJ4PHA"
+      "url": "https://raw.githubusercontent.com/KSnamAce/denjiAPI/main/54.png"
     },
     {
       "id": 56,
       "type": "wallpaper56",
-      "url": "/56.png?token=GHSAT0AAAAAACFBPNC6ZM6JRBVAAN26EQG6ZGJ4QDQ"
-    },
-    {
-      "id": 57,
-      "type": "wallpaper57",
-      "url": "/57.png?token=GHSAT0AAAAAACFBPNC6VQMGTBDWB2ZCJ36YZGJ4QJA"
+      "url": "https://raw.githubusercontent.com/KSnamAce/denjiAPI/main/56.png"
     },
     {
       "id": 58,
       "type": "wallpaper58",
-      "url": "/58.png?token=GHSAT0AAAAAACFBPNC76VRLXKA23ZB62X4AZGJ4QPQ"
+      "url": "https://raw.githubusercontent.com/KSnamAce/denjiAPI/main/58.png"
     },
     {
       "id": 59,
       "type": "wallpaper59",
-      "url": "/59.png?token=GHSAT0AAAAAACFBPNC7UHKM23S7ME7NR4LIZGJ4QYQ"
+      "url": "https://raw.githubusercontent.com/KSnamAce/denjiAPI/main/59.png"
     },
     {
       "id": 60,
       "type": "wallpaper60",
-      "url": "/60.png?token=GHSAT0AAAAAACFBPNC7V4BAWGKTCIXBILS4ZGJ4S4A"
+      "url": "https://raw.githubusercontent.com/KSnamAce/denjiAPI/main/60.png"
     },
     {
       "id": 61,
       "type": "wallpaper61",
-      "url": "/61.png?token=GHSAT0AAAAAACFBPNC7WO2XR2YWVIOZOR3EZGJ4TCQ"
+      "url": "https://raw.githubusercontent.com/KSnamAce/denjiAPI/main/61.png"
     },
     {
       "id": 62,
       "type": "wallpaper62",
-      "url": "/62.png?token=GHSAT0AAAAAACFBPNC7AMKOOLSB7GBBFTS4ZGJ4TJQ"
+      "url": "https://raw.githubusercontent.com/KSnamAce/denjiAPI/main/62.png"
     },
     {
       "id": 63,
       "type": "wallpaper63",
-      "url": "/63.png?token=GHSAT0AAAAAACFBPNC6PQBG43LBYTGSCYVAZGJ4TPQ"
-    },
-    {
-      "id": 64,
-      "type": "wallpaper64",
-      "url": "/64.png?token=GHSAT0AAAAAACFBPNC6Z5LJYKCAYUMFHEDSZGJ4TWQ"
+      "url": "https://raw.githubusercontent.com/KSnamAce/denjiAPI/main/63.png"
     },
     {
       "id": 65,
       "type": "wallpaper65",
-      "url": "/65.png?token=GHSAT0AAAAAACFBPNC6OBR2N7AWIXGXBY6SZGJ4T6A"
+      "url": "https://raw.githubusercontent.com/KSnamAce/denjiAPI/main/65.png"
     },
     {
       "id": 66,
       "type": "wallpaper66",
-      "url": "/66.png?token=GHSAT0AAAAAACFBPNC6QQJWOWQCEVFVH6WAZGJ4VZQ"
+      "url": "https://raw.githubusercontent.com/KSnamAce/denjiAPI/main/66.png"
     }
   ]
 }
